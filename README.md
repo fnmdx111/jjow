@@ -12,7 +12,7 @@ Techniques and Topics Index
 * 1289.c: DSL macro
 * 1268.py: tabling and code generation
 * 1212.c: iterator macro
-* 1211.c: stack (expression calculation problem)
+* 1211.c: stack (expression evaluation problem)
 * 1195.c: masking of addition of multiple numbers
-* 1184.c: square root calculation of N&R
+* 1184.c: N&R square root evaluation
 
